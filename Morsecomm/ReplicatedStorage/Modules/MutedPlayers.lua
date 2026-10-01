@@ -1,0 +1,3 @@
+local MutedPlayers = {}
+
+return MutedPlayers
